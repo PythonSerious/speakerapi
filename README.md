@@ -17,3 +17,6 @@ go into app.py and replace IPHERE with 127.0.0.1 (ctrl + f for IPHERE) in app.py
 ### RPI instructions
 go into app.py and replace IPHERE (ctrl + f for IPHERE) with your RPI's locak network address.
 (port 2000)
+
+#### Notes:
+The tempstorage folder is where the audio files are temp stored. add that to the directory where your app.py file will run.
