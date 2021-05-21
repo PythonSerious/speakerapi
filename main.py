@@ -136,10 +136,10 @@ html = """
 }
 </style>
 <div class="file-upload">
-  <form class=file-upload-btn action = "http://192.168.2.8:2000/uploader" method = "POST" 
+  <form class=file-upload-btn action = "http://IPHERE:2000/uploader" method = "POST" 
          enctype = "multipart/form-data">
          <input class= "inputbut"  type = "file" name = "file" accept="audio/*" multiple />
-         <input class="submit" onclick="window.location.href = 'http://192.168.2.8:2000/uploaded';" type = "submit"  />
+         <input class="submit" onclick="window.location.href = 'http://IPHERE:2000/uploaded';" type = "submit"  />
       </form>   
 
   
