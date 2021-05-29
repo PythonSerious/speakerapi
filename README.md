@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.com/PythonSerious/speakerapi.svg?branch=main)](https://travis-ci.com/PythonSerious/speakerapi)
+
+
 # speakerapi
 manage your speakers from your PC with your RPI
 
